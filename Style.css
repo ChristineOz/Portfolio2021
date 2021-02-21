@@ -1,0 +1,273 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+   background-color: beige;
+}
+
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: coral;
+    color: darkblue;
+    border-bottom: ridge;
+    border-color: darkblue;
+    font-size: 26px;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+.header h1 .seo {
+    color:darkblue;
+    font-size: 26px;
+}
+
+.header div {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.header div ul {
+    list-style-type: none;
+    font-size: 26px;
+}
+
+.header div ul li {
+    display: inline-block;
+    margin-left: 25px;
+    font-size: 26px;
+}
+
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("/Users/christineosmak/RUT-JER-FSF-PT-02-2021-U-C/week-2/02-Advanced-CSS/Assets/Cover.jpg");
+    background-size: cover;
+    background-position: center;
+    border-bottom: ridge;
+    border-color: darkblue;
+    height:400px;
+    
+}
+
+main a {
+    font-size: 26px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    color:beige
+}
+
+main p {
+    font-size: 26px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    color:beige
+}
+
+a {
+    color: darkblue;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+    color:darkblue
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.About-Me {
+    margin-bottom: 20px;
+    margin-left: 20px ;
+    margin-right: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   border-right-style: ridge;
+    color: darkblue;
+    margin-bottom: 20px;
+    font-size: 36px;
+    text-align: center;
+
+}
+
+.Work {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkblue;
+}
+
+.About-Me img {
+    max-height: 200px;
+    flex:wrap
+}
+
+.Resume img {
+    max-height: 200px;
+    image-resolution: 20px;
+    border-radius: 50%;
+    float:right;
+    margin-right:225px
+}
+
+img{
+    width:auto;
+    max-width: 100%;
+    height:auto;
+}
+
+.Work h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+    text-align: center;
+}
+
+.Contact-Me h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+    text-align: center;
+    color: darkblue;
+    list-style-type: none
+}
+
+
+.card {
+    flex: 1 1 1;
+    padding: 10px;
+    text-align: center;
+    border-style: solid;
+    border-width: 10px;
+    border-color: coral;
+    background-image: url(https://motionarray.imgix.net/preview-48500CXyqzjtUPH_0000.jpg);
+    background:cover;
+   color:beige;
+   width: 900px;
+   height: 350px;
+  }
+
+  .one-card {
+    flex: 1 0 0;
+    padding: 10px;
+    text-align: center;
+    border-style: solid;
+    border-width: 10px;
+    border-color: coral;
+    background-image: url(https://i.pinimg.com/736x/0b/fb/7a/0bfb7a0186b1e2c89dd7bbd4d016a9ce.jpg);
+    background:cover;
+    color:beige;
+    width: 200px;
+    height:200px;
+  }
+
+  .two-card{
+    flex: 1 0 0;
+    flex-wrap: wrap;
+    padding: 10px;
+    text-align: center;
+    border-style: solid;
+    border-width: 10px;
+    border-color: coral;
+    background-image: url(https://cdn.wallpapersafari.com/5/58/3mPiYC.jpg);
+    background:cover;
+    color:beige;
+    width: 200px;
+    height:200px
+  }
+  
+  .three-card {
+    flex: 1 0 0;
+    flex-wrap: wrap;
+    padding: 10px;
+    text-align: center;
+    border-style: solid;
+    border-width: 10px;
+    border-color: coral;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvRwLVo2-ADKxGSA_zc5fLnE2SgQ9K_tvxsQ&usqp=CAU);
+    background:cover;
+    color:beige;
+    width: 200px;
+    height:200px;
+  }
+
+  .four-card{
+    flex: 1 0 0;
+    flex-wrap: wrap;
+    padding: 10px;
+    text-align: center;
+    border-style: solid;
+    border-width: 10px;
+    border-color: coral;
+    background-image: url(https://wallpaperaccess.com/full/2449573.png);
+    background:cover;
+    color:beige;
+    width: 200px;
+    height:200px;
+  }
+
+  .five-card {
+    flex: 1 0 0;
+    flex-wrap: wrap;
+    padding: 10px;
+    text-align: center;
+    border-style: solid;
+    border-width: 10px;
+    border-color: coral;
+    background-image: url(https://pinspiry.com/wp-content/uploads/2020/01/tech_backgrounds-3.jpg);
+    background:cover;
+    color:beige;
+    width: 200px;
+    height:200px;
+  }
+
+  main {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2%;
+    Margin-bottom: 2%;
+    color:beige
+  }
+
+  .Contact-Me{
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:darkblue;
+    text-align: center;
+    }
+
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color:chocolate
+}
+
+.footer h2 {
+    font-size: 20px;
+}
