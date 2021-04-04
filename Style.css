@@ -138,56 +138,41 @@ img{
 
   a {
     font-size: xx-large;
-   color: red;
+   color:white;
   }
 
   .one-column {
-   float:right;
+    float: right;
     width: 35%;
     padding: 50px;
     margin: 50px;
    text-align: center;
-   background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://wallpapercave.com/wp/wp1991165.jpg") ;
+   background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/Users/christineosmak/Portfolio2021/Password.png") ;
    background-position: center;
+   background-size:contain;
   }
 
   .two-column {
-    float:right;
-     width: 35%;
+    float: right;
+    width: 35%;
      padding: 50px;
      margin: 50px;
     text-align: center;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://t3.ftcdn.net/jpg/03/15/86/16/240_F_315861649_SEDPcW32mOIlAiDd1y370qzFaZMZlA53.jpg") ;
-    background-position: center;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/Users/christineosmak/Portfolio2021/Bet-Full.png") ;
+    background-position:center;
+    background-size:contain;
    }
 
    .three-column {
-    float:right;
-     width: 35%;
+    float: right;
+    width: 35%;
      padding: 50px;
      margin: 50px;
     text-align: center;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://steelcase-res.cloudinary.com/image/upload/v1583874836/www.steelcase.com/2020/03/10/Suddenly_Working_from_Home.png") ;
-    background-position: center;
-   }
-
-   .four-column {
-    float:right;
-     width: 35%;
-     padding: 50px;
-     margin: 50px;
-    text-align: center;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX27787332.jpg") ;
-    background-position: center;
-   }
-
-  #RESUME{
-  border-radius: 25px;
-  border: 2px solid red;
-  padding: 20px;
-  width: 200px;
-  height: 150px;
-}
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/Users/christineosmak/Portfolio2021/workday.png") ;
+    background-position:center;
+    background-size:contain;
+  }
 
   .one-column:hover {
     box-shadow: red 0 8px 16px 0 ;
@@ -200,11 +185,6 @@ img{
   .three-column:hover {
     box-shadow: red 0 8px 16px 0 ;
   }
-
-  .four-column:hover {
-    box-shadow: red 0 8px 16px 0 ;
-  }
-
   /* The Modal (background) */
 .modal {
   display: none; /* Hidden by default */
@@ -280,7 +260,14 @@ img{
 }
 
 .footer{
+  padding: 2px 16px;
   text-align: center;
-  padding: 3px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://media.giphy.com/media/Sqr5fNwH8jsd4K4fQX/giphy.gif");
-color: white;
+  color: white;
+}
+
+p{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: x-large;
+  color: white;
+}
