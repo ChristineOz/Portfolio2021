@@ -149,9 +149,8 @@ img{
 
   .one-column {
     float: right;
-    width: 35%;
-    padding: 50px;
-    margin: 50px;
+    padding: 25px;
+    margin: 25px;
    text-align: center;
    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Password.png") ;
    background-position: center;
@@ -160,9 +159,8 @@ img{
 
   .two-column {
     float: right;
-    width: 35%;
-     padding: 50px;
-     margin: 50px;
+     padding: 25px;
+     margin: 25px;
     text-align: center;
     background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Bet-Full.png") ;
     background-position:center;
@@ -171,9 +169,8 @@ img{
 
    .three-column {
     float: right;
-    width: 35%;
-     padding: 50px;
-     margin: 50px;
+    padding: 25px;
+    margin: 25px;
     text-align: center;
     background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("workday.png") ;
     background-position:center;
