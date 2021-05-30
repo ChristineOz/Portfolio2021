@@ -171,6 +171,16 @@ img{
     background-size:contain;
   }
 
+  .four-column {
+    float: right;
+    padding: 25px;
+    margin: 25px;
+    text-align: center;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Flavor Saver.png") ;
+    background-position:center;
+    background-size:contain;
+  }
+
   .one-column:hover {
     box-shadow: red 0 8px 16px 0 ;
   }
@@ -180,6 +190,10 @@ img{
   }
 
   .three-column:hover {
+    box-shadow: red 0 8px 16px 0 ;
+  }
+
+  .four-column:hover {
     box-shadow: red 0 8px 16px 0 ;
   }
   /* The Modal (background) */
