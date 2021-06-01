@@ -1,19 +1,28 @@
-# Portfolio2021
-This portfolio exemplfies my progression through learning and 
-producing code as a Front-End Web Developer. 
-
-
-Based on the objectives this homework entailed, I looked back at similar code that we worked with 
-as a class which would be able to produce either the formate, navigation, or design that this
-homework requested. From there I analyzed and planned the following steps I needed to take to alter and 
-personalize the code to what was able to clearly impict me, as an aspring Web Developer. 
-
-<img width="1414" alt="Screen Shot 2021-04-05 at 1 00 31 PM" src="https://user-images.githubusercontent.com/77952267/113601485-65b57a00-960f-11eb-8755-aa41347939ca.png">
-
-<img width="1266" alt="Screen Shot 2021-04-05 at 1 00 49 PM" src="https://user-images.githubusercontent.com/77952267/113601525-70700f00-960f-11eb-9216-337bee32dceb.png">
-
-
-This is a project that I will consistently work on over time as I perfect my craft. Hope in the near 
-future I will be able to create a page that I am proud of to show to future employers. 
-
-https://christineoz.github.io/Portfolio2021/
+# Portfolio 
+    
+#### Table of Contents
+1. [Project Description](#project-description)
+2. [Installation Instructions](#installation-instructions)
+3. [Usage Information](#usage-information)
+4. [Contributor](#contributor)
+5. [Credits](#credits)
+6. [Test Instructions](#test-instructions)
+7. [License](#license)
+8. [Questions](#questions)
+## Project Description
+* An app that has a brief about me,  lists my past work, and contact information. 
+## Installation Instructions
+* N/A
+## Usage Information
+* To demonstrate my coding capabilities as well as lists my past work. 
+## Contributor 
+* Google and Coding Bootcamp
+## Credits
+* Christine Osmak
+## Test Instructions
+* N/A
+## License
+* licensed under the [MIT License](LICENSE.txt)
+## Questions
+* For additional help or questions about collaboration, please reach out to Christineosmak@gmail.com
+* Follow me on Github at [ChristineOz](http://github.com/ChristineOz)
