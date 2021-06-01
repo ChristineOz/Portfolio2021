@@ -182,19 +182,19 @@ img{
   }
 
   .one-column:hover {
-    box-shadow: red 0 8px 16px 0 ;
+    box-shadow: rgb(192, 69, 161) 0 8px 16px 0 ;
   }
 
   .two-column:hover {
-    box-shadow: red 0 8px 16px 0 ;
+    box-shadow: rgb(192, 69, 161) 0 8px 16px 0 ;
   }
 
   .three-column:hover {
-    box-shadow: red 0 8px 16px 0 ;
+    box-shadow: rgb(192, 69, 161) 0 8px 16px 0 ;
   }
 
   .four-column:hover {
-    box-shadow: red 0 8px 16px 0 ;
+    box-shadow: rgb(192, 69, 161) 0 8px 16px 0 ;
   }
   /* The Modal (background) */
 .modal {
