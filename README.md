@@ -28,7 +28,7 @@
 ## Test Instructions
 * N/A
 ## License
-* licensed under the [MIT License](LICENSE.txt)
+* licensed under the [MIT License]
 ## Questions
 * For additional help or questions about collaboration, please reach out to Christineosmak@gmail.com
 * Follow me on Github at [ChristineOz](http://github.com/ChristineOz)
