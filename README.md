@@ -22,7 +22,7 @@
 ## Usage Information
 * To demonstrate my coding capabilities as well as lists my past work. 
 
-Technologies Used: <br> 
+TECHNOLOGIES USED: <br> 
 HTML <br>
 CSS <br> 
 Javascript <br>
