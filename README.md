@@ -21,6 +21,13 @@
 * N/A
 ## Usage Information
 * To demonstrate my coding capabilities as well as lists my past work. 
+
+Technologies Used: <br> 
+HTML <br>
+CSS <br> 
+Javascript <br>
+
+
 ## Contributor 
 * Google and Coding Bootcamp
 ## Credits
